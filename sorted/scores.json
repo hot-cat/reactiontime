@@ -1,0 +1,3093 @@
+{
+    "scores": {
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0 -\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0 ",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                491.29999999993015,
+                70.90000000002328
+            ],
+            "score": {
+                "average_rt": 281.0999999999767,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kiara-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                1398.1999998092651,
+                837.3000001907349
+            ],
+            "score": {
+                "average_rt": 1117.75,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0-\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                720.3000000000466,
+                307.29999999993015,
+                296.20000000006985
+            ],
+            "score": {
+                "average_rt": 441.26666666668217,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kiara-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                2385.5,
+                1003.6999998092651,
+                1925.2000000476837
+            ],
+            "score": {
+                "average_rt": 1771.466666618983,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0-\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                489.19999999995343,
+                200.10000000009313,
+                178.10000000009313,
+                166
+            ],
+            "score": {
+                "average_rt": 258.3500000000349,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kiara-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                3486,
+                2011.7999999523163,
+                1513.9000000953674
+            ],
+            "score": {
+                "average_rt": 1752.925000011921,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0-\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                651,
+                473.60000000009313
+            ],
+            "score": {
+                "average_rt": 562.3000000000466,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0-\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                713.5,
+                164.30000000004657,
+                416.19999999995343
+            ],
+            "score": {
+                "average_rt": 431.3333333333333,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kiara-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                1422.3000001907349,
+                544.0999999046326
+            ],
+            "score": {
+                "average_rt": 983.2000000476837,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0-\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "\u00d0\u00bc\u00d0\u00b8\u00d0\u00ba\u00d0\u00b0\u00d0\u00b5\u00d0\u00bb\u00d0\u00b0",
+            "role": "\u00d0\u00b2\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d0\u00b9\u00d0\u00b1\u00d0\u00be\u00d0\u00bb",
+            "rt": [
+                834.6000000000931,
+                166.19999999995343,
+                142.4000000001397,
+                296.19999999995343
+            ],
+            "score": {
+                "average_rt": 359.8500000000349,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kiara-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                1226.9000000953674,
+                486,
+                531.2999999523163
+            ],
+            "score": {
+                "average_rt": 748.0666666825613,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kiara-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "kiara",
+            "role": "volleyball",
+            "rt": [
+                2171.7000000476837
+            ],
+            "score": {
+                "average_rt": 542.9250000119209,
+                "score": 4,
+                "accuracy": 0.4
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "raya-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                1088.3999998569489,
+                59
+            ],
+            "score": {
+                "average_rt": 573.6999999284744,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Ivanina-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                1562.3000000000466,
+                533.0999999998603
+            ],
+            "score": {
+                "average_rt": 1047.6999999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "raya-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                1131.2000000476837,
+                663
+            ],
+            "score": {
+                "average_rt": 598.0666666825613,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "raya-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                1279.0999999046326,
+                958.7000000476837,
+                449.2999999523163,
+                462.2000000476837
+            ],
+            "score": {
+                "average_rt": 787.3249999880791,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Ivanina-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                1125.5,
+                628,
+                628.3000000000466
+            ],
+            "score": {
+                "average_rt": 793.9333333333489,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "raya-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                2240,
+                757.5999999046326
+            ],
+            "score": {
+                "average_rt": 1498.7999999523163,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Ivanina-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                1311.1999999999534,
+                486.9000000001397,
+                448.89999999990687
+            ],
+            "score": {
+                "average_rt": 561.75,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "raya-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                1236.7000000476837,
+                284.2000000476837,
+                284.19999980926514
+            ],
+            "score": {
+                "average_rt": 601.6999999682108,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Ivanina-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                861.3000000000466,
+                580.5999999998603
+            ],
+            "score": {
+                "average_rt": 720.9499999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "raya-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "raya",
+            "role": "volleyball",
+            "rt": [
+                1368.4000000953674,
+                651.7999999523163,
+                746.2999999523163
+            ],
+            "score": {
+                "average_rt": 691.625,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Ivanina-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                1738.5,
+                378
+            ],
+            "score": {
+                "average_rt": 705.5,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Adriana -volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Adriana ",
+            "role": "volleyball",
+            "rt": [
+                1162,
+                520.8000001907349
+            ],
+            "score": {
+                "average_rt": 841.4000000953674,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "adriana-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "adriana",
+            "role": "volleyball",
+            "rt": [
+                1303.3000001907349,
+                721.5999999046326,
+                461.90000009536743
+            ],
+            "score": {
+                "average_rt": 828.9333333969116,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Ivanina-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Ivanina",
+            "role": "volleyball",
+            "rt": [
+                929.3000000000466,
+                758.3999999999069,
+                1079.1999999999534
+            ],
+            "score": {
+                "average_rt": 691.7249999999767,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "adriana-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "adriana",
+            "role": "volleyball",
+            "rt": [
+                1362.6999998092651,
+                1242.2000000476837,
+                1943.3999998569489
+            ],
+            "score": {
+                "average_rt": 1137.0749999284744,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "adriana-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "adriana",
+            "role": "volleyball",
+            "rt": [
+                2194.7000000476837,
+                697.7999999523163
+            ],
+            "score": {
+                "average_rt": 1446.25,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "adriana-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "adriana",
+            "role": "volleyball",
+            "rt": [
+                1813.2000000476837,
+                710.7000000476837
+            ],
+            "score": {
+                "average_rt": 841.3000000317892,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Madlen-Volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1426.5,
+                567.5
+            ],
+            "score": {
+                "average_rt": 997.0,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "adriana-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "adriana",
+            "role": "volleyball",
+            "rt": [
+                1132.6999998092651,
+                402.2000000476837,
+                1492.6000001430511,
+                1729.1999998092651
+            ],
+            "score": {
+                "average_rt": 1189.1749999523163,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Madlen-Volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1055.2999999998137,
+                390.39999999990687,
+                461.89999999990687
+            ],
+            "score": {
+                "average_rt": 635.8666666665425,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Madlen-Volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1111.5,
+                295.89999999990687,
+                568.6000000000931,
+                177.29999999981374
+            ],
+            "score": {
+                "average_rt": 538.3249999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "niya-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1056.9000000953674,
+                485.5
+            ],
+            "score": {
+                "average_rt": 771.2000000476837,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Madlen-Volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1863.2000000001863,
+                663.1999999997206
+            ],
+            "score": {
+                "average_rt": 1263.1999999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niya-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1151.7000000476837,
+                615.2999999523163,
+                663.2000000476837
+            ],
+            "score": {
+                "average_rt": 810.0666666825613,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Madlen-Volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1028.1999999997206,
+                721.3999999999069,
+                568.5
+            ],
+            "score": {
+                "average_rt": 772.6999999998758,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niya-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1091.5999999046326,
+                523.5,
+                389.7999999523163,
+                355.40000009536743
+            ],
+            "score": {
+                "average_rt": 590.0749999880791,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Madlen-Volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Madlen",
+            "role": "Volleyball",
+            "rt": [
+                1099.3999999999069,
+                414.39999999990687,
+                638.8999999999069
+            ],
+            "score": {
+                "average_rt": 538.1749999999302,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niya-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1146,
+                532.9000000953674
+            ],
+            "score": {
+                "average_rt": 839.4500000476837,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niya-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1653.2000000476837,
+                768.7999999523163,
+                652
+            ],
+            "score": {
+                "average_rt": 1024.6666666666667,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niya-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "niya",
+            "role": "volleyball",
+            "rt": [
+                1284.7000000476837,
+                566,
+                676.7000000476837
+            ],
+            "score": {
+                "average_rt": 631.8500000238419,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Michaela-Volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                1506.1999999997206,
+                378.40000000037253
+            ],
+            "score": {
+                "average_rt": 942.3000000000466,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Michaela-Volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                1684.7999999998137,
+                485.39999999990687,
+                403.5
+            ],
+            "score": {
+                "average_rt": 857.8999999999069,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Michaela-Volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                3584.100000000093,
+                355.1999999997206,
+                685.3000000002794,
+                736.1999999997206
+            ],
+            "score": {
+                "average_rt": 1340.1999999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Michaela-Volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                1547.8999999999069,
+                568.2000000001863
+            ],
+            "score": {
+                "average_rt": 1058.0500000000466,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Michaela-Volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                1234.5,
+                1018.7000000001863,
+                580.2999999998137
+            ],
+            "score": {
+                "average_rt": 944.5,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Michaela-Volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Michaela",
+            "role": "Volleyball",
+            "rt": [
+                1222.5,
+                461.60000000009313,
+                296.59999999962747,
+                272.60000000009313
+            ],
+            "score": {
+                "average_rt": 563.3249999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Viktor-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Viktor",
+            "role": "volleyball",
+            "rt": [
+                791.9000000953674,
+                521.2999999523163
+            ],
+            "score": {
+                "average_rt": 656.6000000238419,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Victor-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Victor",
+            "role": "volleyball",
+            "rt": [
+                1229.5999999046326,
+                366.80000019073486,
+                402.89999985694885
+            ],
+            "score": {
+                "average_rt": 666.4333333174387,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Victor-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Victor",
+            "role": "volleyball",
+            "rt": [
+                1560.1000001430511,
+                535.7999999523163,
+                246.70000004768372,
+                511.2000000476837
+            ],
+            "score": {
+                "average_rt": 713.4500000476837,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Victor-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Victor",
+            "role": "volleyball",
+            "rt": [
+                1835.7999999523163,
+                1385.7000000476837
+            ],
+            "score": {
+                "average_rt": 1610.75,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Victor-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Victor",
+            "role": "volleyball",
+            "rt": [
+                1669.2000000476837,
+                413.90000009536743,
+                272.09999990463257
+            ],
+            "score": {
+                "average_rt": 785.0666666825613,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Victor-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Victor",
+            "role": "volleyball",
+            "rt": [
+                1075.6000001430511,
+                342.09999990463257,
+                368.10000014305115,
+                580.7999999523163
+            ],
+            "score": {
+                "average_rt": 591.6500000357628,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Kristian-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                1530.7000000476837,
+                1361.2000000476837
+            ],
+            "score": {
+                "average_rt": 1445.9500000476837,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Kristian-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                1509.8000001907349,
+                1532.0999999046326,
+                780.2999999523163
+            ],
+            "score": {
+                "average_rt": 1274.0666666825612,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Kristian-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                1183,
+                626.6000001430511,
+                1515.8999998569489
+            ],
+            "score": {
+                "average_rt": 831.375,
+                "score": 7,
+                "accuracy": 0.7
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Kristian-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                2182.5999999046326,
+                1018.4000000953674
+            ],
+            "score": {
+                "average_rt": 1600.5,
+                "score": 9,
+                "accuracy": 0.9
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Kristian-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                2856.7999999523163,
+                473.7000000476837
+            ],
+            "score": {
+                "average_rt": 1110.1666666666667,
+                "score": 7,
+                "accuracy": 0.7
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Kristian-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Kristian",
+            "role": "volleyball",
+            "rt": [
+                1243.5,
+                638.9000000953674,
+                603.6999998092651,
+                651.4000000953674
+            ],
+            "score": {
+                "average_rt": 784.375,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tomi-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "tomi",
+            "role": "volleyball",
+            "rt": [
+                1622.2000000001863,
+                757.2000000001863
+            ],
+            "score": {
+                "average_rt": 1189.7000000001863,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tomi-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "tomi",
+            "role": "volleyball",
+            "rt": [
+                1649.5,
+                591.2999999998137
+            ],
+            "score": {
+                "average_rt": 746.9333333332712,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tomi-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "tomi",
+            "role": "volleyball",
+            "rt": [
+                1393.4000000003725,
+                1396.8999999994412,
+                2180.4000000003725
+            ],
+            "score": {
+                "average_rt": 1242.6750000000466,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tomi-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "tomi",
+            "role": "volleyball",
+            "rt": [
+                1380,
+                769.2999999998137
+            ],
+            "score": {
+                "average_rt": 1074.6499999999069,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tomi-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "tomi",
+            "role": "volleyball",
+            "score": {
+                "average_rt": 0.0,
+                "score": 4,
+                "accuracy": 0.4
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tomi-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "tomi",
+            "role": "volleyball",
+            "rt": [
+                1263.9000000003725,
+                570.8999999994412,
+                758.3000000007451,
+                13126
+            ],
+            "score": {
+                "average_rt": 3929.7750000001397,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niki p-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1468.0999999996275,
+                495.5
+            ],
+            "score": {
+                "average_rt": 981.7999999998137,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "niki p-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1262.5999999996275,
+                473,
+                791.6000000005588
+            ],
+            "score": {
+                "average_rt": 842.400000000062,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "niki p-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1332.2999999998137,
+                461.30000000074506,
+                473.09999999962747,
+                758.0999999996275
+            ],
+            "score": {
+                "average_rt": 756.1999999999534,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "niki p-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1321.7000000001863,
+                615.7000000001863
+            ],
+            "score": {
+                "average_rt": 968.7000000001863,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niki p-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1330,
+                650,
+                1481.5
+            ],
+            "score": {
+                "average_rt": 1153.8333333333333,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "niki p-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "niki p",
+            "role": "volleyball",
+            "rt": [
+                1342,
+                2652.5999999996275
+            ],
+            "score": {
+                "average_rt": 998.6499999999069,
+                "score": 6,
+                "accuracy": 0.6
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "buchi-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                3178.4000000000233,
+                712.0999999999767
+            ],
+            "score": {
+                "average_rt": 1945.25,
+                "score": 9,
+                "accuracy": 0.9
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "buchi-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                2345.5999999999767,
+                652.2000000000116,
+                189.70000000001164
+            ],
+            "score": {
+                "average_rt": 1062.5,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "buchi-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                1706,
+                863.9000000000233,
+                900.7999999999884,
+                1195.899999999965
+            ],
+            "score": {
+                "average_rt": 1166.6499999999942,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "buchi-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                1850.1000000000931,
+                840.2999999999302
+            ],
+            "score": {
+                "average_rt": 1345.2000000000116,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "buchi-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                1585.3999999999069,
+                935.7000000000698,
+                605.2999999999302
+            ],
+            "score": {
+                "average_rt": 1042.1333333333023,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "buchi-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "buchi",
+            "role": "volleyball",
+            "rt": [
+                1824.1999999999534,
+                875.6000000000931,
+                687.7999999999302
+            ],
+            "score": {
+                "average_rt": 846.8999999999942,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "danny-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                986.4000000003725,
+                117.89999999850988
+            ],
+            "score": {
+                "average_rt": 552.1499999994412,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "danny-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                867.8999999985099,
+                249.2000000011176,
+                246.59999999962747
+            ],
+            "score": {
+                "average_rt": 454.5666666664183,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "danny-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                1082.699999999255,
+                198.80000000074506,
+                630.0999999996275
+            ],
+            "score": {
+                "average_rt": 477.89999999990687,
+                "score": 7,
+                "accuracy": 0.7
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "danny-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                994.0999999996275,
+                581.5
+            ],
+            "score": {
+                "average_rt": 787.7999999998137,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "danny-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                1283.7000000011176,
+                344.59999999962747,
+                545.2999999988824
+            ],
+            "score": {
+                "average_rt": 724.5333333332092,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "danny-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "danny",
+            "role": "student",
+            "rt": [
+                1270.7000000011176,
+                236.09999999962747,
+                260.59999999962747,
+                260.7000000011176
+            ],
+            "score": {
+                "average_rt": 507.02500000037253,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kalata-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                928.5999999996275,
+                532.9000000003725
+            ],
+            "score": {
+                "average_rt": 730.75,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kalata-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                1086.699999999255,
+                378.59999999962747,
+                1816.800000000745
+            ],
+            "score": {
+                "average_rt": 1094.0333333332092,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kalata-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                1007.5,
+                201.2000000011176,
+                355.2999999988824,
+                201.60000000149012
+            ],
+            "score": {
+                "average_rt": 441.40000000037253,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "kalata-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                944.8999999985099,
+                296.1000000014901
+            ],
+            "score": {
+                "average_rt": 620.5,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kalata-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                985.3000000007451,
+                532.5999999996275,
+                462.7999999988824
+            ],
+            "score": {
+                "average_rt": 660.2333333330849,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "kalata-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "kalata",
+            "role": "student",
+            "rt": [
+                957.3000000007451,
+                341.90000000037253,
+                581
+            ],
+            "score": {
+                "average_rt": 470.0500000002794,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tedi-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                1179.699999999255,
+                604.1999999992549
+            ],
+            "score": {
+                "average_rt": 891.9499999992549,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tedi-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                1002.3000000007451,
+                200.69999999925494,
+                338.80000000074506
+            ],
+            "score": {
+                "average_rt": 513.9333333335817,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tedi-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                1398.8999999985099,
+                698.6999999992549,
+                367.20000000298023,
+                130.29999999701977
+            ],
+            "score": {
+                "average_rt": 648.7749999994412,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "tedi-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                1147.4000000022352,
+                378.5999999977648
+            ],
+            "score": {
+                "average_rt": 763.0,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tedi-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                969.8000000007451,
+                461,
+                201.39999999850988
+            ],
+            "score": {
+                "average_rt": 544.0666666664183,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "tedi-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "tedi",
+            "role": "student",
+            "rt": [
+                837.3000000007451,
+                272.1000000014901,
+                178.19999999925494
+            ],
+            "score": {
+                "average_rt": 321.90000000037253,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "alex m-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                880.1000000014901,
+                318.19999999552965
+            ],
+            "score": {
+                "average_rt": 599.1499999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "alex m-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                1036.6999999955297,
+                743.8000000044703,
+                262.6000000014901
+            ],
+            "score": {
+                "average_rt": 681.03333333383,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "alex m-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                982.8999999985099,
+                580.1999999955297,
+                284.40000000596046,
+                450
+            ],
+            "score": {
+                "average_rt": 574.375,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "alex m-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                1000.2999999970198,
+                1183.7000000029802
+            ],
+            "score": {
+                "average_rt": 1092.0,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "alex m-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                1397.5,
+                224.89999999850988,
+                1255.8999999985099
+            ],
+            "score": {
+                "average_rt": 959.4333333323399,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "alex m-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "alex m",
+            "role": "student",
+            "rt": [
+                1873.7999999970198,
+                450.20000000298023,
+                367.19999999552965,
+                521.3999999985099
+            ],
+            "score": {
+                "average_rt": 803.1499999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "eric-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1163.1000000014901,
+                568.3999999985099
+            ],
+            "score": {
+                "average_rt": 865.75,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "eric-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1290.6999999955297,
+                1219.7000000029802,
+                1018.6999999955297
+            ],
+            "score": {
+                "average_rt": 1176.3666666646798,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "eric-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1325.6999999955297,
+                520.3999999985099,
+                616,
+                367.1000000014901
+            ],
+            "score": {
+                "average_rt": 707.2999999988824,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "eric-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1623,
+                874.3999999985099
+            ],
+            "score": {
+                "average_rt": 1248.699999999255,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "eric-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1330.1000000014901,
+                579.6999999955297,
+                592.5
+            ],
+            "score": {
+                "average_rt": 834.0999999990066,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "eric-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "eric",
+            "role": "student",
+            "rt": [
+                1157.2000000029802,
+                404.29999999701977,
+                1255.6000000014901
+            ],
+            "score": {
+                "average_rt": 704.2750000003725,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "villi-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                1795.1000000089407,
+                601.8999999910593
+            ],
+            "score": {
+                "average_rt": 1198.5,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "villi-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                1394.5999999940395,
+                155,
+                319.70000000298023
+            ],
+            "score": {
+                "average_rt": 623.0999999990066,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "villi-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                1439.9000000059605,
+                628,
+                663.2999999970198
+            ],
+            "score": {
+                "average_rt": 682.8000000007451,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "villi-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                792.3999999910593,
+                249.40000000596046
+            ],
+            "score": {
+                "average_rt": 520.8999999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "villi-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                1144.2999999970198,
+                1824.4000000059605
+            ],
+            "score": {
+                "average_rt": 989.5666666676601,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "villi-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "villi",
+            "role": "student",
+            "rt": [
+                1237.7000000029802,
+                865.1999999880791
+            ],
+            "score": {
+                "average_rt": 525.7249999977648,
+                "score": 6,
+                "accuracy": 0.6
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Eva-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1062.300000011921,
+                165.69999998807907
+            ],
+            "score": {
+                "average_rt": 614.0,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Eva-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1231.5999999940395,
+                671.2000000029802,
+                439.1000000089407
+            ],
+            "score": {
+                "average_rt": 780.6333333353201,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Eva-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1194.4000000059605,
+                355.59999999403954,
+                331.80000001192093,
+                154.39999997615814
+            ],
+            "score": {
+                "average_rt": 509.04999999701977,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Eva-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1268.0999999940395,
+                248.5
+            ],
+            "score": {
+                "average_rt": 758.2999999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Eva-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1753,
+                260,
+                604.5999999940395
+            ],
+            "score": {
+                "average_rt": 872.5333333313465,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Eva-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Eva",
+            "role": "student",
+            "rt": [
+                1475.5,
+                687.5,
+                566.5,
+                476.40000000596046
+            ],
+            "score": {
+                "average_rt": 801.4750000014901,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "sofi m-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                2590.899999976158,
+                1295.7000000178814
+            ],
+            "score": {
+                "average_rt": 1943.2999999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "sofi m-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                2106.300000011921,
+                1288.5,
+                1989.5
+            ],
+            "score": {
+                "average_rt": 1794.7666666706402,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "sofi m-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                1367,
+                390.40000000596046,
+                462,
+                556.9000000059605
+            ],
+            "score": {
+                "average_rt": 694.0750000029802,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "sofi m-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                2201.4000000059605,
+                909.8000000119209
+            ],
+            "score": {
+                "average_rt": 1555.6000000089407,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "sofi m-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                3825.4000000059605,
+                1490.800000011921
+            ],
+            "score": {
+                "average_rt": 1772.0666666726272,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "sofi m-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "sofi m",
+            "role": "student",
+            "rt": [
+                1380.3999999761581,
+                579.7000000178814,
+                675.2999999821186,
+                829.3000000119209
+            ],
+            "score": {
+                "average_rt": 866.1749999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Ivan-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Ivan",
+            "role": "student",
+            "rt": [
+                1371.4000000059605,
+                1087.199999988079
+            ],
+            "score": {
+                "average_rt": 1229.2999999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ivan-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "ivan",
+            "role": "student",
+            "rt": [
+                1588.1000000238419,
+                781.6999999880791,
+                852.6999999880791
+            ],
+            "score": {
+                "average_rt": 1074.1666666666667,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ivan-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "ivan",
+            "role": "student",
+            "rt": [
+                1358.5,
+                709.5,
+                604.8000000119209,
+                1765.3999999761581
+            ],
+            "score": {
+                "average_rt": 1109.5499999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ivan-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "ivan",
+            "role": "student",
+            "rt": [
+                1155.1000000238419,
+                414.5
+            ],
+            "score": {
+                "average_rt": 784.8000000119209,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "ivan-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "ivan",
+            "role": "student",
+            "rt": [
+                1340.699999988079,
+                2179.2000000178814
+            ],
+            "score": {
+                "average_rt": 1173.3000000019867,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "ivan-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "ivan",
+            "role": "student",
+            "rt": [
+                1195.0999999940395,
+                556.5999999940395,
+                733.7000000178814,
+                485.7999999821186
+            ],
+            "score": {
+                "average_rt": 742.7999999970198,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "ani-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                1165.4000000059605,
+                213.09999999403954
+            ],
+            "score": {
+                "average_rt": 689.25,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ani-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                698,
+                342.90000000596046,
+                177.69999998807907
+            ],
+            "score": {
+                "average_rt": 406.1999999980132,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ani-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                529.6000000238419,
+                393.39999997615814,
+                366.5
+            ],
+            "score": {
+                "average_rt": 322.375,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "ani-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                663.1999999880791,
+                46.19999998807907
+            ],
+            "score": {
+                "average_rt": 354.69999998807907,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "ani-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                1429.800000011921,
+                580.5,
+                461.80000001192093
+            ],
+            "score": {
+                "average_rt": 824.0333333412806,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "ani-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "ani",
+            "role": "student",
+            "rt": [
+                1521.5999999940395,
+                1883.800000011921,
+                711
+            ],
+            "score": {
+                "average_rt": 1029.1000000014901,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Diana-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                1421.5,
+                663.3999999910593
+            ],
+            "score": {
+                "average_rt": 1042.4499999955297,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Diana-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                1501.800000011921,
+                803.5999999940395,
+                521
+            ],
+            "score": {
+                "average_rt": 942.1333333353201,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Diana-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                1503.1000000089407,
+                415.09999999403954,
+                4868.4000000059605
+            ],
+            "score": {
+                "average_rt": 1696.6500000022352,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Diana-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                1556.8999999910593,
+                697.9000000059605
+            ],
+            "score": {
+                "average_rt": 1127.3999999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Diana-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                2304.2999999970198,
+                698.6000000089407,
+                544.5
+            ],
+            "score": {
+                "average_rt": 1182.4666666686535,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Diana-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Diana",
+            "role": "student",
+            "rt": [
+                2331.2999999970198,
+                746.6000000089407,
+                556.5999999940395
+            ],
+            "score": {
+                "average_rt": 908.625,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Sophi S-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                1214.3999999910593,
+                367.5
+            ],
+            "score": {
+                "average_rt": 790.9499999955297,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Sophi S-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                1026.9000000059605,
+                510.3999999910593,
+                627.9000000059605
+            ],
+            "score": {
+                "average_rt": 721.7333333343267,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Sophi S-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                1411.9000000059605,
+                201.30000001192093,
+                1611.5999999940395
+            ],
+            "score": {
+                "average_rt": 806.2000000029802,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Sophi S-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                973.5,
+                177.79999999701977
+            ],
+            "score": {
+                "average_rt": 575.6499999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Sophi S-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                1543.6000000089407,
+                544.3999999910593,
+                675.5
+            ],
+            "score": {
+                "average_rt": 921.1666666666666,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Sophi S-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Sophi S",
+            "role": "student",
+            "rt": [
+                1310.5,
+                141.8999999910593,
+                628.5,
+                1362.7000000029802
+            ],
+            "score": {
+                "average_rt": 860.8999999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Nikolay-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1802.7999999970198,
+                556.5999999940395
+            ],
+            "score": {
+                "average_rt": 1179.6999999955297,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Nikolay-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1621.2000000029802,
+                828.7999999970198,
+                462.1000000089407
+            ],
+            "score": {
+                "average_rt": 970.7000000029802,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Nikolay-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1922.1000000089407,
+                273.09999999403954,
+                520.5999999940395,
+                555.9000000059605
+            ],
+            "score": {
+                "average_rt": 817.9250000007451,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Nikolay-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1813.9000000059605,
+                829.0999999940395
+            ],
+            "score": {
+                "average_rt": 1321.5,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Nikolay-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1686.1000000089407,
+                698,
+                391.29999999701977
+            ],
+            "score": {
+                "average_rt": 925.1333333353201,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Nikolay-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Nikolay",
+            "role": "student",
+            "rt": [
+                1761,
+                615.4000000059605,
+                1350.5
+            ],
+            "score": {
+                "average_rt": 931.7250000014901,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Emo-volleyball-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                757.0999999940395,
+                189.20000000298023
+            ],
+            "score": {
+                "average_rt": 473.1499999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Emo-volleyball-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                838.9000000059605,
+                308.09999999403954,
+                129.90000000596046
+            ],
+            "score": {
+                "average_rt": 425.6333333353202,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Emo-volleyball-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                753.6000000089407,
+                452.5,
+                236.79999999701977,
+                295.70000000298023
+            ],
+            "score": {
+                "average_rt": 434.6500000022352,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Emo-volleyball-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                917.6000000089407,
+                215.29999999701977
+            ],
+            "score": {
+                "average_rt": 566.4500000029802,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Emo-volleyball-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                2396.9000000059605
+            ],
+            "score": {
+                "average_rt": 798.9666666686535,
+                "score": 6,
+                "accuracy": 0.6
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Emo-volleyball-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Emo",
+            "role": "volleyball",
+            "rt": [
+                551.3000000119209,
+                650.3999999910593,
+                438.19999998807907,
+                1149.300000011921
+            ],
+            "score": {
+                "average_rt": 697.3000000007451,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Presi-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                952.2999999821186,
+                686.4000000059605
+            ],
+            "score": {
+                "average_rt": 819.3499999940395,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Presi-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                1383.7000000178814,
+                355.7999999821186,
+                332.10000002384186
+            ],
+            "score": {
+                "average_rt": 690.5333333412806,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Presi-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                1225.5,
+                246.30000001192093,
+                699.6999999880791,
+                876.0999999940395
+            ],
+            "score": {
+                "average_rt": 761.8999999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Presi-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                1198.3999999761581,
+                711.8000000119209
+            ],
+            "score": {
+                "average_rt": 955.0999999940395,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Presi-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                1387.4000000059605,
+                377.5,
+                510,
+                580.4000000059605
+            ],
+            "score": {
+                "average_rt": 951.7666666706403,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Presi-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Presi",
+            "role": "student",
+            "rt": [
+                1198.5,
+                332.90000000596046,
+                355.09999999403954,
+                413.09999999403954
+            ],
+            "score": {
+                "average_rt": 574.8999999985099,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Niya-student-30-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                881.3000000119209,
+                343.59999999403954
+            ],
+            "score": {
+                "average_rt": 612.4500000029802,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Niya-student-30-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                845.1000000089407,
+                181.29999999701977
+            ],
+            "score": {
+                "average_rt": 342.1333333353202,
+                "score": 8,
+                "accuracy": 0.8
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Niya-student-30-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                890.4000000059605,
+                355.29999999701977,
+                237.20000000298023,
+                225.40000000596046
+            ],
+            "score": {
+                "average_rt": 427.07500000298023,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "30",
+            "time": "8"
+        },
+        "Niya-student-40-8-10-2": {
+            "amountCircles": "10",
+            "amountTrack": "2",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                1686.7999999970198,
+                461.80000001192093
+            ],
+            "score": {
+                "average_rt": 1074.3000000044703,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Niya-student-40-8-10-3": {
+            "amountCircles": "10",
+            "amountTrack": "3",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                994,
+                201.1000000089407,
+                107
+            ],
+            "score": {
+                "average_rt": 434.03333333631355,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        },
+        "Niya-student-40-8-10-4": {
+            "amountCircles": "10",
+            "amountTrack": "4",
+            "name": "Niya",
+            "role": "student",
+            "rt": [
+                892.3999999910593,
+                200.70000000298023,
+                213.29999999701977,
+                331.40000000596046
+            ],
+            "score": {
+                "average_rt": 409.44999999925494,
+                "score": 10,
+                "accuracy": 1.0
+            },
+            "speed": "40",
+            "time": "8"
+        }
+    }
+}
